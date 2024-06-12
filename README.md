@@ -1,5 +1,5 @@
 # dsensegif
-Mini auxiliary project that helps to generate QR codes that direct the user to images that are already hosted in a website/repository. This project uses the `qrcode`[https://pypi.org/project/qrcode/#description] library.
+Mini auxiliary project that helps to generate QR codes that direct the user to images that are already hosted in a website/repository. This project uses the [`qrcode`](https://pypi.org/project/qrcode/#description) library.
 
 # Usage instructions
 
